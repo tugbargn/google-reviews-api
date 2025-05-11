@@ -1,0 +1,14 @@
+{
+  "name": "google-reviews-api",
+  "version": "1.0.3",
+  "description": "A simple Node.js library to fetch Google Maps reviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "axios": "^1.0.0"
+  },
+  "author": "tugbargn",
+  "license": "MIT"
+}
